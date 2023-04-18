@@ -1,0 +1,46 @@
+{
+  "name":"Plan 1",
+  "planId":"0056227b-b0a4-4e44-a754-528c5161171e",
+  "images":["https://www.svgrepo.com/show/475492/universe-planet-12.svg",
+    "https://www.svgrepo.com/show/475503/universe-planet-19.svg"],
+  "services": [{
+    "id": "INTERNET",
+    "name": "INTERNET",
+    "description": "Mobile internet for use",
+    "value": 5000,
+    "icon": "https://www.svgrepo.com/show/475498/universe-planet-14.svg",
+    "price" : {
+      "value": 2,
+      "currency": "USD"}
+  },
+    {
+      "id": "CALLS",
+      "name": "CALLS",
+      "description": "Mobile calls for use",
+      "value": 300,
+      "icon": "https://www.svgrepo.com/show/511585/call-191.svg",
+      "price" : {
+        "value": 3,
+        "currency": "USD"}
+    },
+    {
+      "id": "MESSAGES",
+      "name": "MESSAGES",
+      "description": "Mobile messages for use",
+      "value": 150,
+      "icon": "https://www.svgrepo.com/show/501261/message.svg",
+      "price" : {
+        "value": 2,
+        "currency": "USD"}
+    },
+    {
+      "id": "MINUTES",
+      "name": "MINUTES",
+      "description": "Mobile minutes for use",
+      "value": 150,
+      "icon": "https://www.svgrepo.com/show/415861/time-timer-hour.svg",
+      "price" : {
+        "value": 3,
+        "currency": "USD"}
+    }]
+}
